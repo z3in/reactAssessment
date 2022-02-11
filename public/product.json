@@ -1,0 +1,162 @@
+[
+  {
+    "id": 0,
+    "product": "consequat",
+    "category": "sint",
+    "manufacturer": "Softmicro",
+    "price": 2278.72,
+    "production_date": "2021-02-26T05:16:52"
+  },
+  {
+    "id": 1,
+    "product": "Lorem",
+    "category": "sint",
+    "manufacturer": "Hometown",
+    "price": 3251.56,
+    "production_date": "2016-09-01T07:51:07"
+  },
+  {
+    "id": 2,
+    "product": "et",
+    "category": "sint",
+    "manufacturer": "Verton",
+    "price": 1941.08,
+    "production_date": "2018-06-15T03:44:10"
+  },
+  {
+    "id": 3,
+    "product": "anim",
+    "category": "sint",
+    "manufacturer": "Cytrak",
+    "price": 1981.63,
+    "production_date": "2021-07-31T10:44:40"
+  },
+  {
+    "id": 4,
+    "product": "id",
+    "category": "officia",
+    "manufacturer": "Ceprene",
+    "price": 3330.24,
+    "production_date": "2020-01-20T05:30:35"
+  },
+  {
+    "id": 5,
+    "product": "et",
+    "category": "sint",
+    "manufacturer": "Utara",
+    "price": 1057.36,
+    "production_date": "2018-01-13T04:22:13"
+  },
+  {
+    "id": 6,
+    "product": "nostrud",
+    "category": "exercitation",
+    "manufacturer": "Utarian",
+    "price": 2750.17,
+    "production_date": "2017-04-25T05:30:05"
+  },
+  {
+    "id": 7,
+    "product": "irure",
+    "category": "sint",
+    "manufacturer": "Comstruct",
+    "price": 3433.27,
+    "production_date": "2016-04-16T10:47:43"
+  },
+  {
+    "id": 8,
+    "product": "do",
+    "category": "est",
+    "manufacturer": "Skyplex",
+    "price": 1708.45,
+    "production_date": "2021-11-23T09:36:43"
+  },
+  {
+    "id": 9,
+    "product": "dolor",
+    "category": "tempor",
+    "manufacturer": "Kidgrease",
+    "price": 1965.87,
+    "production_date": "2015-09-25T08:48:51"
+  },
+  {
+    "id": 10,
+    "product": "officia",
+    "category": "est",
+    "manufacturer": "Signity",
+    "price": 2546.4,
+    "production_date": "2020-06-11T12:27:40"
+  },
+  {
+    "id": 11,
+    "product": "nulla",
+    "category": "exercitation",
+    "manufacturer": "Bytrex",
+    "price": 3848.6,
+    "production_date": "2017-06-26T01:57:50"
+  },
+  {
+    "id": 12,
+    "product": "fugiat",
+    "category": "amet",
+    "manufacturer": "Zenthall",
+    "price": 3579.04,
+    "production_date": "2018-01-03T08:45:12"
+  },
+  {
+    "id": 13,
+    "product": "consectetur",
+    "category": "exercitation",
+    "manufacturer": "Dognosis",
+    "price": 3238.29,
+    "production_date": "2020-03-12T07:08:32"
+  },
+  {
+    "id": 14,
+    "product": "magna",
+    "category": "exercitation",
+    "manufacturer": "Zenthall",
+    "price": 3088.66,
+    "production_date": "2021-10-16T10:16:59"
+  },
+  {
+    "id": 15,
+    "product": "veniam",
+    "category": "ut",
+    "manufacturer": "Dognosis",
+    "price": 3749.81,
+    "production_date": "2014-08-03T11:35:19"
+  },
+  {
+    "id": 16,
+    "product": "nisi",
+    "category": "sit",
+    "manufacturer": "Sportan",
+    "price": 1716.6,
+    "production_date": "2018-03-06T07:20:09"
+  },
+  {
+    "id": 17,
+    "product": "proident",
+    "category": "fugiat",
+    "manufacturer": "Sportan",
+    "price": 2449.76,
+    "production_date": "2015-11-06T11:06:14"
+  },
+  {
+    "id": 18,
+    "product": "labore",
+    "category": "exercitation",
+    "manufacturer": "Dognosis",
+    "price": 1602.47,
+    "production_date": "2020-05-23T06:59:26"
+  },
+  {
+    "id": 19,
+    "product": "deserunt",
+    "category": "quis",
+    "manufacturer": "Sportan",
+    "price": 2010.12,
+    "production_date": "2021-05-13T02:20:31"
+  }
+]
