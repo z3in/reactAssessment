@@ -166,6 +166,7 @@ export default function Task5() {
     }
     const resetFilter = () =>{
         setFilterSettings(initialSettings)
+        setNavDisplay(display => !display)
         setRow(orig)
     }
   return (
