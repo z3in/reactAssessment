@@ -150,13 +150,17 @@ export default function Task5() {
     }
 
     const getFilters = () =>{
-        console.log(filterSettings)
         setNavDisplay(display => !display)
         let new_row = orig
-        if(filterSettings.category.length > 0){
+        if(filterSettings.category.length > 0 && filterSettings.manufacturer.length > 0){
+            let temp_row1 = orig.filter(item => filterSettings.category.includes(item.category))
+            let temp_row2 = orig.filter(item => filterSettings.manufacturer.includes(item.manufacturer))
+            new_row = [...new Set(temp_row1.concat(temp_row2))];
+        }
+        if(filterSettings.category.length > 0 && filterSettings.manufacturer.length === 0){
             new_row = new_row.filter(item => filterSettings.category.includes(item.category))
         }
-        if(filterSettings.manufacturer.length > 0){
+        if(filterSettings.manufacturer.length > 0 && filterSettings.category.length === 0){
             new_row = new_row.filter(item => filterSettings.manufacturer.includes(item.manufacturer))
         }
         if(filterSettings.price.min_price !== "" && filterSettings.price.max_price !== ""  ){

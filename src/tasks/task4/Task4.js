@@ -1,5 +1,5 @@
 import React from 'react'
-import Bem from '../component/Bem'
+import Bem from './Bem'
 import {Link} from 'react-router-dom'
 
 export default function Task4() {

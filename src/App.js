@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter as Router,Switch,Route,Link } from 'react-router-dom'
-import Task1 from './tasks/Task1'
-import Task2 from './tasks/Task2'
-import Task3 from './tasks/Task3'
-import Task4 from './tasks/Task4'
-import Task5 from './tasks/Task5'
+import Task1 from './tasks/task1/Task1'
+import Task2 from './tasks/task2/Task2'
+import Task3 from './tasks/task3/Task3'
+import Task4 from './tasks/task4/Task4'
+import Task5 from './tasks/task5/Task5'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {

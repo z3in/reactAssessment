@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Button from 'react-bootstrap/Button'
 import {Link} from 'react-router-dom'
 
-import ColorManager from '../component/ColorManager'
+import ColorManager from './ColorManager'
 
 export default function Task1() {
     
